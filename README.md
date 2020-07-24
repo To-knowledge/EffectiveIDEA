@@ -8,7 +8,7 @@ Idea hotkeys for Win.
 
 `ctrl + E` 查看最近修改的文件集合
 
-`ctrl + 1` 左侧文件夹与右侧代码区切换
+`alt + 1` 左侧文件夹与右侧代码区切换
 
 `ctrl + N` 查找相关类
 
