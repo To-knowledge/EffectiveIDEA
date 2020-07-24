@@ -8,7 +8,7 @@ Idea hotkeys for Win.
 
 `ctrl + E` 查看最近修改的文件集合
 
-`alt + 1` 左侧文件夹与右侧代码区切换
+`alt + 1` 右侧代码区进入左侧文件区，`esc` 回到代码区
 
 `ctrl + N` 查找相关类
 
@@ -24,7 +24,7 @@ Idea hotkeys for Win.
 
 ### 快速编码
 
-`alt + insert` 插入构造方法，getter以及setter等
+`alt + insert` 代码区插入构造方法，getter以及setter等 文件夹区插入新的文件
 
 `alt + enter`  代码修复建议等、自动构造函数、下一步提示等
 
